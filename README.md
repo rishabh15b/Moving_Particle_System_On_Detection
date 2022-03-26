@@ -1,1 +1,1 @@
-# Moving_Particle_Sysytem_On_Detection
+# Moving_Particle_System_On_Detection
